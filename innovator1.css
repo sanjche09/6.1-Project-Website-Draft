@@ -26,3 +26,42 @@
     font-weight: bold;
     text-transform:uppercase
 }
+
+li{
+    list-style-type: none;
+    float: left;
+    border-right-color: rgb(146, 86, 86);
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+li a{
+    display:block;
+    color: rgb(254, 204, 204);
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(141, 72, 86);
+}
+
+li a:hover{
+    background-color: rgb(249, 236, 236);
+}
+
+.banner{
+    background-color: rgb(57, 5, 5);
+    padding-bottom: 50px;
+    margin: 0px;
+}
+
+a:link{
+    color: rgb(146, 86, 86);
+}
+a:visited{
+    color: rgb(250, 168, 168);
+}
+a:hover{
+    color:  rgb(254, 204, 204);
+}
+a:active{
+    color:rgb(243, 223, 223);
+}
