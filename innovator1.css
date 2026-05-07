@@ -30,31 +30,25 @@
 li{
     list-style-type: none;
     float: left;
-    border-right-color: rgb(146, 86, 86);
+    border-right-color: rgb(178, 182, 216);
     border-right-width: 1px;
     border-right-style: solid;
 }
 
 li a{
     display:block;
-    color: rgb(254, 204, 204);
+    color: rgb(27, 8, 8);
     padding: 20px;
     text-align: center;
-    background-color: rgb(141, 72, 86);
+    background-color: rgb(62, 51, 175);
 }
 
 li a:hover{
     background-color: rgb(249, 236, 236);
 }
 
-.banner{
-    background-color: rgb(57, 5, 5);
-    padding-bottom: 50px;
-    margin: 0px;
-}
-
 a:link{
-    color: rgb(146, 86, 86);
+    color: rgb(27, 24, 67);
 }
 a:visited{
     color: rgb(250, 168, 168);
@@ -63,5 +57,5 @@ a:hover{
     color:  rgb(254, 204, 204);
 }
 a:active{
-    color:rgb(243, 223, 223);
+    color:rgb(77, 34, 34);
 }
