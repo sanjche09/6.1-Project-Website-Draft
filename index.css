@@ -1,3 +1,32 @@
+.redietBackground{
+    background-color: rgb(188, 188, 240);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+ 
+
+.customImage {
+    border-width: 7px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #5c5ada;
+    margin: 5px;
+    width:250px;
+    max-height: 200px;
+}
+
+.redietText{
+    color: rgb(35, 35, 169);
+}
+
+
+.highlightedText{
+    color: rgb(35, 35, 169);
+    font-weight: bold;
+    text-transform:uppercase
+}
+
 li{
     list-style-type: none;
     float: left;
