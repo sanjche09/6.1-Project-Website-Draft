@@ -71,3 +71,10 @@ a:active{
     width:250px;
     height:250px;
 }
+
+.redietBackground{
+    background-color: rgb(188, 188, 240);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
