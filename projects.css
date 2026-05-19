@@ -1,17 +1,17 @@
 li{
     list-style-type: none;
     float: left;
-    border-right-color: rgb(178, 182, 216);
+    border-right-color: rgb(255, 255, 255);
     border-right-width: 1px;
     border-right-style: solid;
 }
 
 li a{
     display:block;
-    color: rgb(27, 8, 8);
+    color: rgb(0, 0, 139);
     padding: 20px;
     text-align: center;
-    background-color: rgb(62, 51, 175);
+    background-color: rgb(0, 0, 139);
 }
 
 li a:hover{
