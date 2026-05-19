@@ -19,16 +19,16 @@ li a:hover{
 }
 
 a:link{
-    color: rgb(27, 24, 67);
+    color: rgb(255, 255, 255);
 }
 a:visited{
-    color: rgb(250, 168, 168);
+    color: rgb(255, 255, 255);
 }
 a:hover{
-    color:  rgb(254, 204, 204);
+    color:  rgb(255, 255, 255);
 }
 a:active{
-    color:rgb(77, 34, 34);
+    color:rgb(255, 255, 255);
 }
 
 .overlay {
